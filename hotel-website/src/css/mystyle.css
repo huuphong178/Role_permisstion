@@ -1,0 +1,64 @@
+html body .app.flex-row.align-items-center {
+    height: 100vh;
+    background-image: url("./background.jpeg");
+}
+.newbtn{
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+.right{
+    margin-right: 5px;
+}
+
+li a{
+    color:#73818f !important
+}
+.magintop20{
+    margin-top: 20px;
+}
+.dropup, .dropright, .dropdown, .dropleft {
+    position: relative;
+    display: none
+}
+.btn-group{
+    float: left;
+    margin-bottom: 10px;
+}
+.btnsignout{
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.slice {
+    cursor: pointer;
+}
+
+.slice .main-arc {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+.slice .hidden-arc {
+    fill: none;
+}
+
+.slice text {
+    pointer-events: none;
+    dominant-baseline: middle;
+    text-anchor: middle;
+}
+li a i {
+    float: left;
+}
+.rt-th{
+    background-color: deepskyblue !important;
+    font-weight: bold !important;
+
+}
+.rthfc.-striped{
+  text-align: center;
+}
+a{
+    color: black
+}
